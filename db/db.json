@@ -5,7 +5,8 @@
       "name": "Elder Scrolls 5: Skyrim",
       "image": "https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg?width=300&crop=1%3A1%2Csmart",
       "likes": 8,
-      "description": "The Elder Scrolls V: Skyrim is an action role-playing game, playable from either a first or third-person perspective. The player may freely roam over the land of Skyrim, an open world environment consisting of wilderness expanses, dungeons, caves, cities, towns, fortresses, and villages."
+      "description": "The Elder Scrolls V: Skyrim is an action role-playing game, playable from either a first or third-person perspective. The player may freely roam over the land of Skyrim, an open world environment consisting of wilderness expanses, dungeons, caves, cities, towns, fortresses, and villages.",
+      "easterEggs": "There's a reference to the movie the Hangover The quest A Night To Remember is an homage to the movie The Hangover. In the quest, you travel around Skyrim looking for your drinking buddy Sam and cleaning up all the problems you created while you were drunk."
     },
     {
       "id": 2,
@@ -18,7 +19,7 @@
       "id": 3,
       "name": "The Last Of Us",
       "image": "https://cmon-files.s3.amazonaws.com/images/news/image_social/753/TLOU_press-release_Social3.jpg",
-      "likes": 15,
+      "likes": 14,
       "description": "The Last of Us is a 2013 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Players control Joel, a smuggler tasked with escorting a teenage girl, Ellie, across a post-apocalyptic United States. The Last of Us is played from a third-person perspective."
     },
     {
@@ -40,7 +41,8 @@
       "name": "The Legend of Zelda: Breath of the Wild",
       "image": "https://www.zelda.com/breath-of-the-wild/assets/icons/BOTW-Share_icon.jpg",
       "likes": 14,
-      "description": "The game is an installment of The Legend of Zelda series and is set at the end of its timeline. The player controls an amnesiac Link, who awakens from a hundred-year slumber, and attempts to regain his memories and prevent the destruction of Hyrule by Calamity Ganon."
+      "description": "The game is an installment of The Legend of Zelda series and is set at the end of its timeline. The player controls an amnesiac Link, who awakens from a hundred-year slumber, and attempts to regain his memories and prevent the destruction of Hyrule by Calamity Ganon.",
+      "easterEggs": "A recurring Easter Egg in the Zelda games is the Cucco Revenge Attack where the player is assaulted by a swarm of the chicken-like creatures in retaliation for attacking them."
     },
     {
       "id": 8,
@@ -62,27 +64,6 @@
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1618851907",
       "likes": 14,
       "description": "Set in a fictional recreation of the American Old West in 1899, Red Dead Redemption 2 focuses on the life of Arthur Morgan and his position in the notorious Van der Linde gang. The game follows the gang's decline as they are pursued by lawmen, fellow gangs and Pinkerton agents."
-    },
-    {
-      "name": "daisy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg/1200px-Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg",
-      "likes": 4,
-      "description": "test",
-      "id": 11
-    },
-    {
-      "name": "riley",
-      "image": "https://pbs.twimg.com/profile_images/442803888798720000/J9vCKjHf_400x400.png",
-      "likes": 8,
-      "description": "shrek",
-      "id": 13
-    },
-    {
-      "name": "Brody",
-      "image": "https://gamepress.gg/dblegends/sites/dblegends/files/styles/522x522/public/2021-03/ExwEzM4XEAg6ptW_0.png?itok=JvONkZxz",
-      "likes": 10025,
-      "description": "the best",
-      "id": 14
     }
   ]
 }
