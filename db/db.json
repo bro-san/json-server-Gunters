@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Elder Scrolls 5: Skyrim",
       "image": "https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg?width=300&crop=1%3A1%2Csmart",
-      "likes": 8,
+      "likes": 18,
       "description": "The Elder Scrolls V: Skyrim is an action role-playing game, playable from either a first or third-person perspective. The player may freely roam over the land of Skyrim, an open world environment consisting of wilderness expanses, dungeons, caves, cities, towns, fortresses, and villages.",
       "easterEggs": [
         "The quest A Night To Remember is an homage to the movie The Hangover. In the quest, you travel around Skyrim looking for your drinking buddy Sam and cleaning up all the problems you created while you were drunk.",
@@ -16,7 +16,8 @@
       "name": "Grand Theft Auto V",
       "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
       "likes": 15,
-      "description": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world."
+      "description": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
+      "easterEggs": []
     },
     {
       "id": 3,
@@ -24,7 +25,7 @@
       "image": "https://cmon-files.s3.amazonaws.com/images/news/image_social/753/TLOU_press-release_Social3.jpg",
       "likes": 14,
       "description": "The Last of Us is a 2013 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Players control Joel, a smuggler tasked with escorting a teenage girl, Ellie, across a post-apocalyptic United States. The Last of Us is played from a third-person perspective.",
-      "easterEggs":[]
+      "easterEggs": []
     },
     {
       "id": 5,
@@ -32,7 +33,7 @@
       "image": "https://images.gog-statics.com/90a13d2a30fdd3b3da2ccd06a592ba4eb6c25e8bf7d6121eb88b6b6460ae4058.jpg",
       "likes": 14,
       "description": "Silent Hill 4: The Room is the first game in the series to feature a first-person perspective. In Room 302, the player navigates through a first-person perspective and can access their only save point and enter the Otherworlds through holes formed in the walls.",
-      "easterEggs":[]
+      "easterEggs": []
     },
     {
       "id": 6,
@@ -40,7 +41,7 @@
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2913/TQKAd8U6hnIFQIIcz6qnFh8C.png",
       "likes": 13,
       "description": "The Witcher 3: Wild Hunt is an action role-playing game with a third-person perspective. Players control Geralt of Rivia, a monster slayer known as a Witcher. Geralt walks, runs, rolls and dodges, and (for the first time in the series) jumps, climbs and swims.",
-      "easterEggs":[]
+      "easterEggs": []
     },
     {
       "id": 7,
@@ -59,7 +60,7 @@
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/8850/capsule_616x353.jpg?t=1568765660",
       "likes": 14,
       "description": "BioShock 2 is a first-person shooter. The player assumes the character of Subject Delta eight years after the events of the first BioShock game. As in BioShock, the player explores Rapture and fights off Splicers using weapons, environmental hazards, and plasmids.",
-      "easterEggs":[]
+      "easterEggs": []
     },
     {
       "id": 9,
@@ -67,15 +68,23 @@
       "image": "https://store-images.s-microsoft.com/image/apps.43444.13574127358458005.65070c14-0cf2-44ab-b4fc-c66107fdb092.5acef951-2322-424c-93ad-6bfc679a27ef?q=90&w=480&h=270",
       "likes": 14,
       "description": "Fallout 3 is an action role-playing game set in the barren wasteland of a post-apocalyptic society. Players assume the role of a resident of an underground complex who emerges from a vault to explore a wasteland universe through a series of quests/missions.",
-      "easterEggs":[]
+      "easterEggs": []
     },
     {
       "id": 10,
       "name": "Red Dead Redemption 2",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1618851907",
-      "likes": 14,
+      "likes": 12,
       "description": "Set in a fictional recreation of the American Old West in 1899, Red Dead Redemption 2 focuses on the life of Arthur Morgan and his position in the notorious Van der Linde gang. The game follows the gang's decline as they are pursued by lawmen, fellow gangs and Pinkerton agents.",
-      "easterEggs":[]
+      "easterEggs": []
+    },
+    {
+      "name": "Halo Infinite",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Halo_Infinite.png",
+      "likes": 17,
+      "description": "latest in the classic FPS series",
+      "easterEggs": [],
+      "id": 11
     }
   ]
 }
