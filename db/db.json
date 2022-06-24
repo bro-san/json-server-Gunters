@@ -17,7 +17,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
       "likes": 15,
       "description": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
-      "easterEggs": []
+      "easterEggs": ["On the Walk of Fame, there are men dressed as Master Chief from Halo."]
     },
     {
       "id": 3,
@@ -68,7 +68,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.43444.13574127358458005.65070c14-0cf2-44ab-b4fc-c66107fdb092.5acef951-2322-424c-93ad-6bfc679a27ef?q=90&w=480&h=270",
       "likes": 14,
       "description": "Fallout 3 is an action role-playing game set in the barren wasteland of a post-apocalyptic society. Players assume the role of a resident of an underground complex who emerges from a vault to explore a wasteland universe through a series of quests/missions.",
-      "easterEggs": []
+      "easterEggs": ["There's a crashed alien ship near the nuclear waste disposal site and inside the ship is an OP ray gun."]
     },
     {
       "id": 10,
@@ -83,7 +83,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Halo_Infinite.png",
       "likes": 17,
       "description": "latest in the classic FPS series",
-      "easterEggs": [],
+      "easterEggs": ["Find the skulls!"],
       "id": 11
     }
   ]
